@@ -1,4 +1,5 @@
 includes
+.kit
 .sass-cache
-codekit-config.json
 app.js
+codekit-config.json
